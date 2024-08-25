@@ -8,6 +8,7 @@ t1.json
 */xray_config_ping.json
 xray_config_ping.json
 repo
+pyvenv.cfg
 
 */__pycache__
 __pycache__
